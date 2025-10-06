@@ -8,7 +8,7 @@ img {
 }
 
 body {
-	background-color: #D3D3D3; /* Not totally white. */
+	background-color: #E7E7E7; /* Not totally white. */
 	color: #181818;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: Arial, Helvetica, sans-serif;
@@ -16,36 +16,36 @@ body {
 
 h1 {
 	background-color: #818589;
-	color: #D3D3D3; /* Same as body background. */
-	font-size: 20pt;
-	padding: 2em 2em 2em; /* You want three values. */
+	color: #E7E7E7; /* Same as body background. */
+	font-size: 30pt;
+	padding: 1em 0.80em 0.2em; /* You want three values. */
 	font-weight: 800;
-	text-transform: none;
+	text-transform: uppercase;
 }
 
 
 h2 {
 	background-color: #818589;
-	color: #D3D3D3; /* Same as body background. */
-	font-size: 16pt;
-	padding: 2em 2em 2em;
+	color: #E7E7E7; /* Same as body background. */
+	font-size: 22pt;
+	padding: 1em 1.1em 0.75em;
 	font-family: Times, "Times New Roman", serif;
 	font-weight: 600;
 }
 
 h3 {
-	margin: 2em 2em 2em; /*Three values again. You got the idea.*/
-	padding-top: 2em;
-	font-size: 14pt;
+	margin: 2em 1.4em 1em; /*Three values again. You got the idea.*/
+	padding-top: 0.5em;
+	font-size: 18pt;
 	color: #550000;
-	font-weight: 400;
+	font-weight: 600;
 	text-transform: uppercase;
 	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
-	border-top: 0.5em solid #550000;
+	border-top: 0.2em solid #550000;
 }
 
 h4 {
-	font-weight: 400;
+	font-weight: 800;
 }
 
 p.description {
@@ -57,10 +57,10 @@ p.price {
 }
 
 ul {
-	margin: 2em 2em em;
+	margin: 1em 0em 1em;
 }
 
 li { 
 	margin: 2em 2em;
-	list-style-type: 20;
+	list-style-type: none;
 }
