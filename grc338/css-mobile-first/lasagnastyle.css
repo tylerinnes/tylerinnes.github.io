@@ -20,8 +20,8 @@ h1 {
 h2 {
 	background-color: #ff9500;
 	color: #fce9cc; /* Same as body background. */
-	font-size: 1.2em;
-	padding: 0.2em 1.2em 1em;
+	font-size: 1.6em;
+	padding: 0.2em 0.9em 1em;
 	font-family: Sutro, serif;
 	font-weight: 300;
 }
@@ -38,18 +38,18 @@ h3 {
 }
 
 figcaption {
-	margin: 1.1em 1.7em 1.1em;
+	margin: 1.5em 1.7em 1.1em;
     font-size: 1em;
     color: #000000;
     font-family: poppins, sans-serif;
     font-weight: 300;
     font-style: italic;
-    margin-top: 12px;
+    margin-top: 15px;
 }
 body {
     background-color: #ffffff;
     color: #000000;
-    font-size: 1.1em;
+    font-size: 1.05em;
     font-family: poppins, sans-serif;
     font-weight: 400;
 
@@ -76,8 +76,8 @@ ol li {
 footer {
   background-color: #ff9500;  
   color: #FFFFFF;                     
-  padding: 1em;              
+  padding: 1.5em;              
   margin-top: 2em;             
-  font-size: 0.9em;            
+  font-size: 1em;            
 }
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
