@@ -8,6 +8,9 @@ div.home-container {
 	background-size: cover;
 	position: relative;
 	min-height: 100vh;
+	background-color: #ff0000;
+	max-width: 75rem;
+	margin: auto;
 }
 
 div.container { 
