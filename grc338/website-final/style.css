@@ -70,7 +70,7 @@ h3 {
 	background-color: #b59410;
 	padding: 0.2rem 0.5rem;
   	border: 3px solid #000;  
-  	border-radius: 0.5rem;      
+  	border-radius: 10px;      
 }
 
 
@@ -95,7 +95,7 @@ ul li 	{
  
 figure {
   margin-bottom: 2rem;
-  border-radius: 1rem;
+  border-radius: 10px;
   overflow: hidden;
 }
 
@@ -109,8 +109,8 @@ main.menu ul li {
 		grid-template-columns: auto auto;
 		grid-template-rows: auto auto;
 		padding: 1.2rem;
-    	border: 0.15rem solid #000;
-    	border-radius: 0.75rem;
+    	border: 2px solid #000;
+    	border-radius: 10px;
     	background-color: #ffffff20; 
 }
 
@@ -145,16 +145,16 @@ nav ul li {
 nav ul li a {
 	color: #ffffff;
 	background-color: #c9bfb4;
-	border: #000000 solid 0.15rem;
+	border: #000000 solid 2px;
 	padding: 0.5em;
-	border-radius: 0.5rem;
+	border-radius: 10px;
 
 	}
 	
 nav ul li.selected a { 
 	background-color: #b59410;
 	color: #ffffff;
-	border-radius: 0.5rem;
+	border-radius: 10px;
 	}
 
 p.slogan {
@@ -164,8 +164,8 @@ p.slogan {
     font-style: italic;
     color: #000000;	
     padding: 0.1rem 1rem;
-    border-radius: 1rem;
-    border: #000000 solid 0.1rem;
+    border-radius: 10px;
+    border: #000000 solid 2px;
     background: #ffffff90;
 	max-width: 30rem;
 	margin: auto;
@@ -182,8 +182,8 @@ footer {
 	display: inline-block;
 	color: #000000;
 	padding: 0.1rem 1rem; 
-	border-radius: 1rem;    
-	border: #000000 solid 0.1rem; 
+	border-radius: 10px;    
+	border: #000000 solid 2px; 
 	background: #ffffff; 
 	margin-top: 1rem;
 }
@@ -192,9 +192,9 @@ address {
 	display: inline-block;
 	color: #000000;
 	background-color: #FFFFFF90;
-	border: #000000 solid 0.1rem;
+	border: #000000 solid 2px;
 	padding: 0.25rem 0.25rem;
-	border-radius: 0.5rem;
+	border-radius: 10px;
 	}
 
 .menuintro {
